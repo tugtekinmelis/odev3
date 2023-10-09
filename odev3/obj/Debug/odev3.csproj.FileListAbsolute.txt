@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\odev3\odev3\bin\Debug\odev3.exe.config
+C:\Users\User\source\repos\odev3\odev3\bin\Debug\odev3.exe
+C:\Users\User\source\repos\odev3\odev3\bin\Debug\odev3.pdb
+C:\Users\User\source\repos\odev3\odev3\obj\Debug\odev3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\odev3\odev3\obj\Debug\odev3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\odev3\odev3\obj\Debug\odev3.Form1.resources
+C:\Users\User\source\repos\odev3\odev3\obj\Debug\odev3.Properties.Resources.resources
+C:\Users\User\source\repos\odev3\odev3\obj\Debug\odev3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\odev3\odev3\obj\Debug\odev3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\odev3\odev3\obj\Debug\odev3.exe
+C:\Users\User\source\repos\odev3\odev3\obj\Debug\odev3.pdb
